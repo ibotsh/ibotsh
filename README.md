@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ibotsh
-- 👀 I’m interested in coding and ABA
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning Java, HTML, CSS, whatever I can
 - 💞️ I’m looking to collaborate on something beginner friendly
 - 📫 How to reach me ...
