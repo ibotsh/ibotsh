@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ibotsh
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Java, HTML, CSS, whatever I can
+- 👀 I’m interested in Data science
+- 🌱 I’m currently learning Python and stats
 - 💞️ I’m looking to collaborate on something beginner friendly
 - 📫 How to reach me ...
 
