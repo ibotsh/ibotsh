@@ -4,6 +4,6 @@ With a MA in Applied Behavior Analysis, and current enrollment in an MS in Data 
 
 In preparation for a career in data, I’ve completed courses in statistical modeling, data science fundamentals, and exploratory data analysis, with hands-on experience in Python and key data analysis techniques like forecasting. My goal is to leverage these skills to solve real-world problems, contribute to data-driven decision-making, and secure a long-term, ethical role in the field.
 
-Beyond technical skills, I’m a disciplined self-starter with strong problem-solving abilities, a collaborative mindset, and a passion for continuous learning. Whether I’m lifting weights, exploring bikeable cities, building ebikes, or diving into complex datasets, I bring focus and determination to everything I do.
+Beyond technical skills, I’m a disciplined self-starter with strong problem-solving abilities, a collaborative mindset, and a passion for continuous learning. Whether I’m lifting weights, playing in kickball league, exploring bikeable cities, building ebikes, or diving into complex datasets, I bring focus and determination to everything I do.
 
 I’m actively seeking opportunities to apply my skills in data analysis, and I look forward to connecting with like-minded professionals
